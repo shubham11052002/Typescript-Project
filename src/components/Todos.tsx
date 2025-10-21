@@ -22,7 +22,7 @@ const Todos = () => {
   return (
     <div className="max-w-xl mx-auto mt-10 p-5 bg-gray-50 rounded-xl shadow-lg">
       <h1 className="text-2xl font-bold mb-5 text-center text-gray-800">
-        My Todos
+        My Todos 
       </h1>
 
       <div className="flex justify-center gap-3 mb-5">
